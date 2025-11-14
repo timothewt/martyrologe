@@ -1,0 +1,38 @@
+[
+  {
+    "lieu": "Séville",
+    "epoque": "639",
+    "nom": "Isidore",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Thessalonique",
+    "epoque": "",
+    "nom": "Agathopode",
+    "titre": "diacre"
+  },
+  {
+    "lieu": "Thessalonique",
+    "epoque": "",
+    "nom": "Théodoulos",
+    "titre": "lecteur"
+  },
+  {
+    "lieu": "Milan",
+    "epoque": "397",
+    "nom": "Ambroise",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Constantinople",
+    "epoque": "813",
+    "nom": "Platon",
+    "titre": "moine"
+  },
+  {
+    "lieu": "Palestine",
+    "epoque": "cinquième siècle",
+    "nom": "Zosime",
+    "titre": "ermite"
+  }
+]

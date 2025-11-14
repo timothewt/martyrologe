@@ -1,0 +1,56 @@
+[
+  {
+    "lieu": "Alexandrie",
+    "epoque": "la huitième année de Néron, [en 68.]",
+    "nom": "Marc",
+    "titre": "évangéliste"
+  },
+  {
+    "lieu": "Rome",
+    "epoque": "VIe siècle",
+    "nom": "Grégoire Ier",
+    "titre": "pape"
+  },
+  {
+    "lieu": "Syracuse",
+    "epoque": "",
+    "nom": "Évodius",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Syracuse",
+    "epoque": "",
+    "nom": "Hermogène",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Syracuse",
+    "epoque": "",
+    "nom": "Calliste",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Antioche",
+    "epoque": "l'époque de l'empereur Zénon",
+    "nom": "Étienne",
+    "titre": "patriarche"
+  },
+  {
+    "lieu": "Antioche",
+    "epoque": "IIe siècle",
+    "nom": "Philo",
+    "titre": "diacre"
+  },
+  {
+    "lieu": "Antioche",
+    "epoque": "IIe siècle",
+    "nom": "Agathopodes",
+    "titre": "diacre"
+  },
+  {
+    "lieu": "Alexandrie",
+    "epoque": "",
+    "nom": "Anian",
+    "titre": "Pape"
+  }
+]

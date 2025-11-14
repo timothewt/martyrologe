@@ -1,0 +1,50 @@
+[
+  {
+    "lieu": "Rome",
+    "epoque": "sous l'empereur Commode et le préfet Pérennios",
+    "nom": "Apollonius",
+    "titre": "sénateur"
+  },
+  {
+    "lieu": "Messine",
+    "epoque": "Sous l'empereur Hadrien",
+    "nom": "Éleuthère",
+    "titre": "Évêque"
+  },
+  {
+    "lieu": "Messine",
+    "epoque": "Sous l'empereur Hadrien",
+    "nom": "Anthia",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "Messine",
+    "epoque": "",
+    "nom": "Corèbe",
+    "titre": "préfet"
+  },
+  {
+    "lieu": "Brescia",
+    "epoque": "sous l'empereur Hadrien",
+    "nom": "Calocère",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Cordoue",
+    "epoque": "en 850",
+    "nom": "Parfait",
+    "titre": "Prêtre"
+  },
+  {
+    "lieu": "Milan",
+    "epoque": "en 1176",
+    "nom": "Galdin",
+    "titre": "Cardinal"
+  },
+  {
+    "lieu": "Mont Senario, en Toscane",
+    "epoque": "au XIIIe siècle",
+    "nom": "Amédée",
+    "titre": "Confesseur"
+  }
+]

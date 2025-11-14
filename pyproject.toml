@@ -6,5 +6,8 @@ author = "Timothé Watteau"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "dotenv>=0.9.9",
+    "google-genai>=1.50.1",
     "requests>=2.32.5",
+    "tqdm>=4.67.1",
 ]

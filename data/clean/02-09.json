@@ -1,0 +1,62 @@
+[
+  {
+    "lieu": "Alexandrie",
+    "epoque": "",
+    "nom": "Cyrille",
+    "titre": "Pape"
+  },
+  {
+    "lieu": "Alexandrie",
+    "epoque": "",
+    "nom": "Apollonie",
+    "titre": "Vierge"
+  },
+  {
+    "lieu": "Rome",
+    "epoque": "",
+    "nom": "Alexandre",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Soli, à Chypre",
+    "epoque": "",
+    "nom": "Ammonius",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Soli, à Chypre",
+    "epoque": "",
+    "nom": "Alexandre",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Antioche",
+    "epoque": "",
+    "nom": "Nicéphore",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Afrique, dans le château de Lemele",
+    "epoque": "VIe siècle",
+    "nom": "Primus",
+    "titre": "Diacre"
+  },
+  {
+    "lieu": "Afrique, dans le château de Lemele",
+    "epoque": "VIe siècle",
+    "nom": "Donat",
+    "titre": "Diacre"
+  },
+  {
+    "lieu": "monastère de Fontenelle",
+    "epoque": "695",
+    "nom": "Ausbert",
+    "titre": "Évêque"
+  },
+  {
+    "lieu": "Canosa, dans les Pouilles",
+    "epoque": "566",
+    "nom": "Sabin",
+    "titre": "Évêque"
+  }
+]

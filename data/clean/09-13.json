@@ -1,0 +1,56 @@
+[
+  {
+    "lieu": "Alexandrie",
+    "epoque": "",
+    "nom": "Philippe",
+    "titre": "Préfet"
+  },
+  {
+    "lieu": "",
+    "epoque": "Licinius",
+    "nom": "Macrobe",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "",
+    "epoque": "Licinius",
+    "nom": "Julien",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "désert",
+    "epoque": "",
+    "nom": "Ligorius",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Alexandrie",
+    "epoque": "VIIe siècle",
+    "nom": "Eulogius",
+    "titre": "pape"
+  },
+  {
+    "lieu": "Angers",
+    "epoque": "Ve siècle",
+    "nom": "Maurice",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Sens",
+    "epoque": "VIIe siècle",
+    "nom": "Aimé",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "île de Palmaria",
+    "epoque": "Ve siècle",
+    "nom": "Venerius",
+    "titre": "ermite"
+  },
+  {
+    "lieu": "monastère de Remiremont",
+    "epoque": "VIIe siècle",
+    "nom": "Aimé",
+    "titre": "abbé"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "lieu": "Antioche",
+    "epoque": "107",
+    "nom": "Ignace",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Smyrne",
+    "epoque": "251",
+    "nom": "Pionios",
+    "titre": "prêtre"
+  },
+  {
+    "lieu": "Ravenne",
+    "epoque": "389",
+    "nom": "Sévère",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Tron, en Gaule",
+    "epoque": "Ve siècle",
+    "nom": "Paul",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Édesse",
+    "epoque": "378",
+    "nom": "Éphrem",
+    "titre": "diacre"
+  },
+  {
+    "lieu": "Irlande",
+    "epoque": "523",
+    "nom": "Brigitte",
+    "titre": "Vierge"
+  },
+  {
+    "lieu": "Florence, en Toscane",
+    "epoque": "1242",
+    "nom": "Véridiana",
+    "titre": "Vierge"
+  }
+]

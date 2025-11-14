@@ -1,0 +1,74 @@
+[
+  {
+    "lieu": "Terracina",
+    "epoque": "",
+    "nom": "Félix",
+    "titre": "prêtre"
+  },
+  {
+    "lieu": "Terracina",
+    "epoque": "",
+    "nom": "Eusèbe",
+    "titre": "moine"
+  },
+  {
+    "lieu": "Émèse",
+    "epoque": "",
+    "nom": "Galaton",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "Émèse",
+    "epoque": "",
+    "nom": "Épistémie",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "",
+    "epoque": "sous l'empereur Maximin",
+    "nom": "Domnin",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "",
+    "epoque": "sous l'empereur Maximin",
+    "nom": "Théotime",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "",
+    "epoque": "sous l'empereur Maximin",
+    "nom": "Philothée",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "",
+    "epoque": "sous l'empereur Maximin",
+    "nom": "Silvain",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "Milan",
+    "epoque": "en l'an 529",
+    "nom": "Magnes",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Brescia",
+    "epoque": "",
+    "nom": "Dominateur",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Trèves",
+    "epoque": "vers l'an 500",
+    "nom": "Fibitius",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Orléans",
+    "epoque": "en l'an 534",
+    "nom": "Laetus",
+    "titre": "prêtre"
+  }
+]

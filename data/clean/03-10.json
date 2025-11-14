@@ -1,0 +1,50 @@
+[
+  {
+    "lieu": "Sébaste",
+    "epoque": "",
+    "nom": "quarante saints martyrs",
+    "titre": "martyrs"
+  },
+  {
+    "lieu": "Apamée",
+    "epoque": "persécution sous les empereurs Marc-Aurèle et Lucius Vérus",
+    "nom": "Caius et Alexandre",
+    "titre": "martyrs"
+  },
+  {
+    "lieu": "Perse",
+    "epoque": "vers l'an 375",
+    "nom": "quarante-deux saints martyrs",
+    "titre": "martyrs"
+  },
+  {
+    "lieu": "Corinthe",
+    "epoque": "persécution sous les empereurs Dèce et Valérien",
+    "nom": "Codrat, Denis, Cyprien, Anectus, Paul et Crescentius",
+    "titre": "martyrs"
+  },
+  {
+    "lieu": "Afrique",
+    "epoque": "",
+    "nom": "Victor",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Jérusalem",
+    "epoque": "vers l'an 334",
+    "nom": "Macaire",
+    "titre": "Patriarche"
+  },
+  {
+    "lieu": "Paris",
+    "epoque": "en l'an 580",
+    "nom": "Drostate",
+    "titre": "Abbé"
+  },
+  {
+    "lieu": "Bobbio",
+    "epoque": "en l'an 627",
+    "nom": "Attala",
+    "titre": "Abbé"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "lieu": "Autun",
+    "epoque": "",
+    "nom": "Andochius",
+    "titre": "prêtre"
+  },
+  {
+    "lieu": "Autun",
+    "epoque": "",
+    "nom": "Thyrsus",
+    "titre": "diacre"
+  },
+  {
+    "lieu": "Autun",
+    "epoque": "",
+    "nom": "Félix",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "Smyrne",
+    "epoque": "",
+    "nom": "Polycarpe",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Égypte",
+    "epoque": "sous l'empereur Dioclétien",
+    "nom": "Paphnutius",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "Chalcédoine",
+    "epoque": "sous l'empereur Dioclétien",
+    "nom": "saints martyrs",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "Hongrie",
+    "epoque": "en l'an 1047",
+    "nom": "Gérard",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Auvergne",
+    "epoque": "au cinquième siècle",
+    "nom": "Rustique",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Beauvais",
+    "epoque": "au septième siècle",
+    "nom": "Geremar",
+    "titre": "abbé"
+  }
+]

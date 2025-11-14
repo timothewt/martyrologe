@@ -1,0 +1,50 @@
+[
+  {
+    "lieu": "Milan",
+    "epoque": "",
+    "nom": "Ambroise",
+    "titre": "archevêque"
+  },
+  {
+    "lieu": "Alexandrie",
+    "epoque": "sous l'empereur Dèce",
+    "nom": "Agatho",
+    "titre": "soldat"
+  },
+  {
+    "lieu": "Antioche",
+    "epoque": "",
+    "nom": "Polycarpe",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Antioche",
+    "epoque": "",
+    "nom": "Théodore",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Tebourba, en Afrique",
+    "epoque": "persécution vandale sous le roi arien Hunéric",
+    "nom": "Servus",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Chieti, dans le royaume de Naples",
+    "epoque": "IXe siècle",
+    "nom": "Urbain",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Saintes, en Gaule",
+    "epoque": "vers 400",
+    "nom": "Martin",
+    "titre": "abbé"
+  },
+  {
+    "lieu": "Meaux",
+    "epoque": "657",
+    "nom": "Fara",
+    "titre": "vierge"
+  }
+]

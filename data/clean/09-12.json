@@ -1,0 +1,50 @@
+[
+  {
+    "lieu": "Alexandrie",
+    "epoque": "sous l'empereur Maximin",
+    "nom": "Hiéronide, Léonce, Sérapion, Sélesius, Valérien et Straton",
+    "titre": "martyrs"
+  },
+  {
+    "lieu": "Bithynie",
+    "epoque": "sous l'empereur Dioclétien",
+    "nom": "Autonome",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Méros, en Phrygie",
+    "epoque": "sous l'empereur Julien l'Apostat",
+    "nom": "Macédonius, Théodule et Tatien",
+    "titre": "martyrs"
+  },
+  {
+    "lieu": "Iconium, en Lycaonie",
+    "epoque": "sous la présidence de Perennius",
+    "nom": "Curonotus",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Pavie",
+    "epoque": "",
+    "nom": "Juventius",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Lyon",
+    "epoque": "VIe siècle",
+    "nom": "Sacerdos",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Vérone",
+    "epoque": "",
+    "nom": "Silvin",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Anderlecht, adjacent à la ville de Bruxelles, en Brabant",
+    "epoque": "1012",
+    "nom": "Guy",
+    "titre": "confesseur"
+  }
+]

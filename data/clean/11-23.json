@@ -1,0 +1,50 @@
+[
+  {
+    "lieu": "Rome",
+    "epoque": "sous l'Empereur Trajan",
+    "nom": "Clément",
+    "titre": "Pape"
+  },
+  {
+    "lieu": "Rome",
+    "epoque": "sous l'Empereur Marc Aurèle",
+    "nom": "Félicité",
+    "titre": "martyre"
+  },
+  {
+    "lieu": "Mérida, en Espagne",
+    "epoque": "sous l'Empereur Dioclétien",
+    "nom": "Lucrèce",
+    "titre": "Vierge et martyre"
+  },
+  {
+    "lieu": "Cyzique, sur l'Héllépont",
+    "epoque": "pendant la même persécution",
+    "nom": "Sisinios",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Iconium, en Lycaonie",
+    "epoque": "",
+    "nom": "Amphilochius",
+    "titre": "Évêque"
+  },
+  {
+    "lieu": "Agrigente, en Sicile",
+    "epoque": "à la fin du VIe siècle",
+    "nom": "Grégoire",
+    "titre": "Évêque"
+  },
+  {
+    "lieu": "région de Hesbaye/Haspengouw",
+    "epoque": "au VIIe siècle",
+    "nom": "Trudo",
+    "titre": "Confesseur"
+  },
+  {
+    "lieu": "Mantoue",
+    "epoque": "",
+    "nom": "Jean Boni",
+    "titre": "aucun"
+  }
+]

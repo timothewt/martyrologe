@@ -1,0 +1,38 @@
+[
+  {
+    "lieu": "Milan",
+    "epoque": "",
+    "nom": "Victor",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Constantinople",
+    "epoque": "",
+    "nom": "Acathius",
+    "titre": "Centurion"
+  },
+  {
+    "lieu": "Vienne",
+    "epoque": "",
+    "nom": "Denis",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Auxerre",
+    "epoque": "vers la fin du quatrième siècle",
+    "nom": "Hellade",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Besançon",
+    "epoque": "en l'an 1174",
+    "nom": "Pierre",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Irlande",
+    "epoque": "vers l'an 700",
+    "nom": "Wiro",
+    "titre": "évêque"
+  }
+]

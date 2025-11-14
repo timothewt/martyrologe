@@ -1,0 +1,92 @@
+[
+  {
+    "lieu": "Rome",
+    "epoque": "règne de l'empereur Aurélien",
+    "nom": "Félix Ier",
+    "titre": "pape"
+  },
+  {
+    "lieu": "Spolète",
+    "epoque": "sous l'empereur Maximien",
+    "nom": "Sabin",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Spolète",
+    "epoque": "sous l'empereur Maximien",
+    "nom": "Exupérant",
+    "titre": "diacre"
+  },
+  {
+    "lieu": "Spolète",
+    "epoque": "sous l'empereur Maximien",
+    "nom": "Marcellus",
+    "titre": "diacre"
+  },
+  {
+    "lieu": "Spolète",
+    "epoque": "sous l'empereur Maximien",
+    "nom": "Vénustian",
+    "titre": "président"
+  },
+  {
+    "lieu": "Alexandrie",
+    "epoque": "",
+    "nom": "Mansuet",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Alexandrie",
+    "epoque": "",
+    "nom": "Sévère",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Alexandrie",
+    "epoque": "",
+    "nom": "Appien",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Alexandrie",
+    "epoque": "",
+    "nom": "Donat",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Alexandrie",
+    "epoque": "",
+    "nom": "Honorius",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Thessalonique",
+    "epoque": "vers l'an 303",
+    "nom": "Anysia",
+    "titre": "martyre"
+  },
+  {
+    "lieu": "Thessalonique",
+    "epoque": "vers l'an 404",
+    "nom": "Anysius",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Milan",
+    "epoque": "",
+    "nom": "Eugène",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Ravenne",
+    "epoque": "",
+    "nom": "Libère",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Aquila",
+    "epoque": "au XIIe siècle",
+    "nom": "Rainerius",
+    "titre": "évêque"
+  }
+]

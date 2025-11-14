@@ -1,0 +1,80 @@
+[
+  {
+    "lieu": "Beauvais",
+    "epoque": "312",
+    "nom": "Lucien",
+    "titre": "Prêtre"
+  },
+  {
+    "lieu": "Beauvais",
+    "epoque": "",
+    "nom": "Maximien",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "Beauvais",
+    "epoque": "",
+    "nom": "Julien",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "Autun",
+    "epoque": "",
+    "nom": "Eugénien",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Libye",
+    "epoque": "",
+    "nom": "Théophile",
+    "titre": "Diacre"
+  },
+  {
+    "lieu": "Libye",
+    "epoque": "",
+    "nom": "Helladius",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "Venise",
+    "epoque": "1455",
+    "nom": "Laurent de' Giustiniani",
+    "titre": "Patriarche"
+  },
+  {
+    "lieu": "Hiérapolis",
+    "epoque": "Marc Aurèle",
+    "nom": "Apollinaire",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Naples",
+    "epoque": "540",
+    "nom": "Séverin",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Pavie",
+    "epoque": "VIe siècle",
+    "nom": "Maxime",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Ratisbonne",
+    "epoque": "",
+    "nom": "Érard",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Metz",
+    "epoque": "IIe siècle",
+    "nom": "Patient",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Bavière",
+    "epoque": "482",
+    "nom": "Séverin",
+    "titre": "Abbé"
+  }
+]

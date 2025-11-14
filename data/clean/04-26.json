@@ -1,0 +1,50 @@
+[
+  {
+    "lieu": "Rome",
+    "epoque": "persécution sous l'empereur Domitien",
+    "nom": "Pape Clet",
+    "titre": "Pape"
+  },
+  {
+    "lieu": "Rome",
+    "epoque": "persécution sous l'empereur Maximien",
+    "nom": "Pape Marcelin",
+    "titre": "Pape"
+  },
+  {
+    "lieu": "Amasée, en Pont",
+    "epoque": "vers l'an 322",
+    "nom": "Basile",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Braga, au Portugal",
+    "epoque": "au Ier siècle",
+    "nom": "Pierre",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Vienne",
+    "epoque": "vers l'an 620",
+    "nom": "Clarence",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Vérone",
+    "epoque": "",
+    "nom": "Lucidius",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "monastère de Centule",
+    "epoque": "au VIIe siècle",
+    "nom": "Requier",
+    "titre": "prêtre"
+  },
+  {
+    "lieu": "Troyes",
+    "epoque": "en l'an 380",
+    "nom": "Exupérance",
+    "titre": "vierge"
+  }
+]

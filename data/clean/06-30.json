@@ -1,0 +1,62 @@
+[
+  {
+    "lieu": "Limoges",
+    "epoque": "Ier siècle",
+    "nom": "Martial",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Limoges",
+    "epoque": "Ier siècle",
+    "nom": "Alpinien",
+    "titre": "prêtre"
+  },
+  {
+    "lieu": "Limoges",
+    "epoque": "Ier siècle",
+    "nom": "Austriclinien",
+    "titre": "prêtre"
+  },
+  {
+    "lieu": "Talca",
+    "epoque": "",
+    "nom": "Caius",
+    "titre": "prêtre"
+  },
+  {
+    "lieu": "Talca",
+    "epoque": "",
+    "nom": "Léon",
+    "titre": "sous-diacre"
+  },
+  {
+    "lieu": "Alexandrie",
+    "epoque": "sous l'empereur Sévère",
+    "nom": "Basilide",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Alexandrie",
+    "epoque": "sous l'empereur Sévère",
+    "nom": "Potamicène",
+    "titre": "Vierge"
+  },
+  {
+    "lieu": "Rome",
+    "epoque": "",
+    "nom": "Lucine",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "Rome",
+    "epoque": "IVe siècle",
+    "nom": "Aemiliana",
+    "titre": "Vierge"
+  },
+  {
+    "lieu": "Viviers",
+    "epoque": "",
+    "nom": "Ostian",
+    "titre": "prêtre"
+  }
+]

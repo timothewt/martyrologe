@@ -1,0 +1,62 @@
+[
+  {
+    "lieu": "Poitiers",
+    "epoque": "persécution sous l'empereur Dioclétien",
+    "nom": "Saint Victorin",
+    "titre": "Évêque"
+  },
+  {
+    "lieu": "Trieste",
+    "epoque": "persécution sous le président Manatius",
+    "nom": "bienheureux Juste",
+    "titre": "aucun"
+  },
+  {
+    "lieu": "Sébaste",
+    "epoque": "sous l'empereur Licinius",
+    "nom": "saints martyrs Carterius, Styriacus, Tobie, Eudoxius, Agapius et leurs compagnons",
+    "titre": "martyrs"
+  },
+  {
+    "lieu": "Perse",
+    "epoque": "",
+    "nom": "saints martyrs Acindynus, Pégase, Aphthonius, Elpidephorus et Anempodistus, avec beaucoup d'autres compagnons",
+    "titre": "martyrs"
+  },
+  {
+    "lieu": "Afrique",
+    "epoque": "",
+    "nom": "saints martyrs Publius, Victor, Hermès et Papias",
+    "titre": "martyrs"
+  },
+  {
+    "lieu": "Tarse, en Cilicie",
+    "epoque": "sous l'empereur Julien l'Apostat",
+    "nom": "sainte Vierge et martyre Eustochium",
+    "titre": "Vierge et martyre"
+  },
+  {
+    "lieu": "Laodicée, en Syrie",
+    "epoque": "en l'an 334",
+    "nom": "saint Théodote",
+    "titre": "Évêque"
+  },
+  {
+    "lieu": "Vienne",
+    "epoque": "au septième siècle",
+    "nom": "saint Georges",
+    "titre": "Évêque"
+  },
+  {
+    "lieu": "monastère de Saint-Moritz, en Suisse",
+    "epoque": "au sixième siècle",
+    "nom": "saint Abbé Ambroise",
+    "titre": "Abbé"
+  },
+  {
+    "lieu": "Cyrus, en Syrie",
+    "epoque": "quatrième siècle",
+    "nom": "saint Marcien",
+    "titre": "Confesseur"
+  }
+]

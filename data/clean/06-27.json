@@ -1,0 +1,38 @@
+[
+  {
+    "lieu": "Galatie",
+    "epoque": "sous Trajan",
+    "nom": "Crescens",
+    "titre": "évêque"
+  },
+  {
+    "lieu": "Cordoue",
+    "epoque": "IVe siècle",
+    "nom": "Zoïle",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Césarée, en Palestine",
+    "epoque": "sous Dioclétien",
+    "nom": "Anectus",
+    "titre": "martyr"
+  },
+  {
+    "lieu": "Constantinople",
+    "epoque": "VIe siècle",
+    "nom": "Samson",
+    "titre": "Prêtre"
+  },
+  {
+    "lieu": "région de Tours",
+    "epoque": "VIe siècle",
+    "nom": "Jean",
+    "titre": "Prêtre"
+  },
+  {
+    "lieu": "Varadin, en Hongrie",
+    "epoque": "1095",
+    "nom": "Ladislas",
+    "titre": "roi"
+  }
+]
