@@ -1,0 +1,299 @@
+ID,Lieu,Epoque,Nom,Titre
+02-24-03,Afrique,259,Montanus,martyr
+02-24-04,Afrique,259,Lucius,martyr
+02-24-05,Afrique,259,Julien,martyr
+02-24-06,Afrique,259,Victorique,martyr
+02-24-07,Afrique,259,Flavien,martyr
+02-24-08,Rouen,588,Prétextat,évêque
+02-24-09,Trèves,499,Modeste,Confesseur
+02-24-10,Angleterre,616,Ethelbert,roi
+02-24-11,Jérusalem,IVe siècle,Précurseur du Seigneur,aucun
+02-25-00,Égypte,IIIe siècle,Victorin,aucun
+02-25-01,Égypte,IIIe siècle,Victor,aucun
+02-25-02,Égypte,IIIe siècle,Nicéphore,aucun
+02-25-03,Égypte,IIIe siècle,Claudien,aucun
+02-25-04,Égypte,IIIe siècle,Dioscore,aucun
+02-25-05,Égypte,IIIe siècle,Sérapion,aucun
+02-25-06,Égypte,IIIe siècle,Papias,aucun
+02-25-07,Afrique,,Donat,aucun
+02-25-08,Afrique,,Juste,aucun
+02-25-09,Afrique,,Hérénas,aucun
+02-25-10,Rome,492,Félix III,pape
+02-25-11,Constantinople,806,Tharaise,patriarche
+02-25-12,Nazianze,369,Césaire,aucun
+02-26-00,Angleterre,,Ethelbert,roi
+02-26-01,Perga, en Pamphylie,251,Nestor,évêque
+02-26-02,Perga,251,Papias,martyr
+02-26-03,Perga,251,Diodore,martyr
+02-26-04,Perga,251,Conon,martyr
+02-26-05,Perga,251,Claudien,martyr
+02-26-06,,,Fortunat,martyr
+02-26-07,,,Félix,martyr
+02-26-08,Alexandrie,326,Alexandre,pape
+02-26-09,Bologne,IVe siècle,Faustinien,évêque
+02-26-10,Gaza, en Palestine,420,Porphyre,évêque
+02-26-11,Florence,Ve siècle,André,Confesseur
+02-26-12,Troyes,VIe siècle,Victor,Confesseur
+02-27-00,Rome,,Alexandre,martyr
+02-27-01,Rome,,Abundius,martyr
+02-27-02,Rome,,Antigone,martyr
+02-27-03,Rome,,Fortunat,martyr
+02-27-04,Alexandrie,250,Julien,martyr
+02-27-05,Alexandrie,250,Eunus,aucun
+02-27-06,Alexandrie,250,Besas,soldat
+02-27-07,Séville,596,Léandre,évêque
+02-27-08,Constantinople,750,Basile,Confesseur
+02-27-09,Constantinople,750,Procope,Confesseur
+02-27-10,Lyon,660,Baldomer,sous-diacre
+02-28-00,Rome,,Macaire,martyr
+02-28-01,Rome,,Rufin,martyr
+02-28-02,Rome,,Juste,martyr
+02-28-03,Rome,,Théophile,martyr
+02-28-04,Alexandrie,,Caerealis,martyr
+02-28-05,Alexandrie,,Pupulus,martyr
+02-28-06,Alexandrie,,Caius,martyr
+02-28-07,Alexandrie,,Sérapion,martyr
+02-28-08,Alexandrie,IIIe siècle,prêtres,prêtre
+02-28-09,Alexandrie,IIIe siècle,diacres,diacre
+02-28-10,Montagnes du Jura, près de Lyon,460,Romain,abbé
+02-28-11,Pavie,722,Augustin,évêque
+03-01-00,Caerleon sur Usk,,David,archevêque
+03-01-01,Rome,,saints martyrs,martyrs
+03-01-02,Rome,,Léo,martyr
+03-01-03,Rome,,Donat,martyr
+03-01-04,Rome,,Abundantius,martyr
+03-01-05,Rome,,Nicephore,martyr
+03-01-06,Marseille,290,Hermès,martyr
+03-01-07,Marseille,290,Hadrien,martyr
+03-01-08,Héliopolis,114,Eudocie,martyre
+03-01-09,Héliopolis,,Théodote,évêque
+03-01-10,Cea,,Antonina,martyre
+03-01-11,Werdt,713,Swibert,évêque
+03-01-12,Angers,550,Albin,évêque
+03-01-13,Saint-Calais,687,Siviard,abbé
+03-01-14,Pérouse,547,Herculanus,évêque
+03-02-00,Rievaux,,Aelred,abbé
+03-02-01,Césarée, en Palestine,sous l'empereur Valérien,Marin,soldat
+03-02-02,Césarée, en Palestine,sous l'empereur Valérien,Astérius,sénateur
+03-02-03,Espagne,,Hemiterius,soldat
+03-02-04,Espagne,,Chélidoine,soldat
+03-02-05,,,Félix,aucun
+03-02-06,,,Luciolus,aucun
+03-02-07,,,Fortunatus,aucun
+03-02-08,,,Marcia,aucun
+03-02-09,,sous la présidence d'Asclépiade, lors de la persécution sous l'empereur Maximien,Cléonicus,soldat
+03-02-10,,sous la présidence d'Asclépiade, lors de la persécution sous l'empereur Maximien,Eutrope,soldat
+03-02-11,,sous la présidence d'Asclépiade, lors de la persécution sous l'empereur Maximien,Basileiscus,soldat
+03-02-12,Brescia,526,Titian,évêque
+03-02-13,Bamberg,1040,Cunégonde,impératrice
+03-04-00,Vilnius, en Lituanie,1458-83,Casimir,duc
+03-04-01,Rome, sur la voie Appienne,Valérien,Lucius,Pape
+03-04-02,Rome, sur la voie Appienne,,Aristion,évêque
+03-04-03,Rome, sur la voie Appienne,,Licinius,évêque
+03-04-04,Rome, sur la voie Appienne,,neuf cents saints martyrs,aucun
+03-04-05,Rome,,Caius,aucun
+03-04-06,Nicomédie,Dioclétien,Hadrien,aucun
+03-04-07,,,Archélaüs,aucun
+03-04-08,,,Cyrille,aucun
+03-04-09,,,Photius,aucun
+03-04-10,Crimée,,Basile,évêque
+03-04-11,Crimée,,Eugène,évêque
+03-04-12,Crimée,,Agathodorme,évêque
+03-04-13,Crimée,,Elpidius,évêque
+03-04-14,Crimée,,Aetherius,évêque
+03-04-15,Crimée,,Capiton,évêque
+03-04-16,Crimée,,Éphrem,évêque
+03-04-17,Crimée,,Nestor,évêque
+03-04-18,Crimée,,Arcadius,évêque
+03-05-00,Antioche,vers l'an 320,Phocas,martyr
+03-05-01,Césarée, en Palestine,en l'an 308,Hadrien,martyr
+03-05-02,Césarée, en Palestine,en l'an 200,Théophile,évêque
+03-05-03,Palestine, sur la rive du Jourdain,en l'an 475,Gérasime,ermite
+03-05-04,Naples,en l'an 1734,Jean-Joseph de la Croix,frère mineur déchaussé
+03-06-00,Nicomédie,troisième siècle,Victor,martyr
+03-06-01,Nicomédie,troisième siècle,Victorin,martyr
+03-06-02,Nicomédie,troisième siècle,Claudien,martyr
+03-06-03,Nicomédie,troisième siècle,Bassa,épouse
+03-06-04,Tortone,,Marcien,évêque
+03-06-05,Constantinople,,Évagre,patriarche
+03-06-06,Chypre,,Conon,martyr
+03-06-07,Syrie,845,quarante-deux saints martyrs,martyrs
+03-06-08,Bologne,quatrième siècle,Basile,évêque
+03-06-09,Barcelone,137,Oligarius,évêque
+03-06-10,Gand,1447,Colette,vierge
+03-07-00,Fossa Nuova, près de Terracina,1274,Thomas d'Aquin,Docteur de l'Église
+03-07-01,Tuburbe, au Maroc,,Perpétue,martyr
+03-07-02,Tuburbe, au Maroc,,Félicité,martyr
+03-07-03,Tuburbe, au Maroc,,Revocatus,martyr
+03-07-04,Tuburbe, au Maroc,,Saturnin,martyr
+03-07-05,Tuburbe, au Maroc,,Secundolus,martyr
+03-07-06,Césarée, en Palestine,308,Eubule,martyr
+03-07-07,Nicomédie,845,Théophile,évêque
+03-07-08,Pélosium, en Égypte,,Paul,évêque
+03-07-09,Brescia,445,Gaudiosus,évêque
+03-07-10,Thébaïde,quatrième siècle,Paul,aucun
+03-08-00,Angleterre,646,Félix,évêque
+03-08-01,Grenade, en Espagne,1550,Jean de Dieu,fondateur
+03-08-02,Antinoé, en Égypte,,Philémon,martyr
+03-08-03,Antinoé, en Égypte,,Apollonius,diacre
+03-08-04,Antinoé, en Égypte,287,Président Arien,martyr
+03-08-05,Antinoé, en Égypte,287,Théoticus,martyr
+03-08-06,Nicomédie,,Quintilien,évêque
+03-08-07,Carthage,262,Pontius,diacre
+03-08-08,Afrique,,Cyrille,évêque
+03-08-09,Afrique,,Rogat,évêque
+03-08-10,Afrique,,Félix,évêque
+03-08-11,Afrique,,Rogat,évêque
+03-08-12,Afrique,,Béata,évêque
+03-08-13,Afrique,,Hérénie,évêque
+03-08-14,Afrique,,Félicité,évêque
+03-08-15,Afrique,,Urbain,évêque
+03-08-16,Afrique,,Silvain,évêque
+03-08-17,Afrique,,Mamil,évêque
+03-08-18,Tolède, en Espagne,690,Julien,évêque
+03-09-00,Rome,1440,Françoise,veuve
+03-09-01,Sébaste,empereur Licinius,quarante saints soldats Cappadociens,soldats
+03-09-02,Nysse,396,Grégoire,évêque
+03-09-03,Barcelone,empereur Théodose,Pacien,évêque
+03-09-04,Moravie,neuvième siècle,Cyrille,évêque
+03-09-05,Moravie,neuvième siècle,Méthode,évêque
+03-09-06,Bologne,1463,Catherine,Vierge
+03-10-00,Sébaste,,quarante saints martyrs,martyrs
+03-10-01,Apamée,persécution sous les empereurs Marc-Aurèle et Lucius Vérus,Caius et Alexandre,martyrs
+03-10-02,Perse,vers l'an 375,quarante-deux saints martyrs,martyrs
+03-10-03,Corinthe,persécution sous les empereurs Dèce et Valérien,Codrat, Denis, Cyprien, Anectus, Paul et Crescentius,martyrs
+03-10-04,Afrique,,Victor,martyr
+03-10-05,Jérusalem,vers l'an 334,Macaire,Patriarche
+03-10-06,Paris,en l'an 580,Drostate,Abbé
+03-10-07,Bobbio,en l'an 627,Attala,Abbé
+03-11-00,Carthage,,Héraclius,martyr
+03-11-01,Carthage,,Zosime,martyr
+03-11-02,Alexandrie,,Candidus,martyr
+03-11-03,Alexandrie,,Piperion,martyr
+03-11-04,Alexandrie,,vingt autres,martyr
+03-11-05,Laodicée,persécution sous l'empereur Dioclétien,Trophime,martyr
+03-11-06,Laodicée,persécution sous l'empereur Dioclétien,Thallos,martyr
+03-11-07,Antioche,,nombreux saints martyrs,martyr
+03-11-08,,,Gorgonius,martyr
+03-11-09,,,Firmus,martyr
+03-11-10,Cordoue,persécution sous les Sarrasins, en l'an 859,Euloge,prêtre
+03-11-11,Sardes,martyrisé sous Théophile,Euthyme,évêque
+03-11-12,Jérusalem,vers l'an 638,Sophronius,évêque
+03-11-13,Milan,vers l'an 725,Benoît,évêque
+03-11-14,Aux environs d'Amiens,,Firmin,abbé
+03-11-15,Carthage,,Constantin,Confesseur
+03-11-16,Bauco,,Pierre,Confesseur
+03-11-17,,,Jean de Dieu,Confesseur
+03-12-00,Rome,604,Grégoire,Pape
+03-12-01,Rome,295,Mamilien,martyr
+03-12-02,Nicomédie,,Pierre,martyr
+03-12-03,Nicomédie,303,Egdunus,Prêtre
+03-12-04,Constantinople,818,Théophane,moine
+03-12-05,Capoue,1109,Bernard,évêque
+03-13-00,Nicomédie,303,Macédonius,martyr
+03-13-01,Nicomédie,303,Patricia,martyr
+03-13-02,Nicomédie,303,Modeste,martyr
+03-13-03,Nicée,,Theusetas,martyr
+03-13-04,Nicée,,Horres,martyr
+03-13-05,Nicée,,Théodora,martyr
+03-13-06,Nicée,,Nymphodora,martyr
+03-13-07,Nicée,,Marc,martyr
+03-13-08,Nicée,,Arabia,martyr
+03-13-09,Eshmoun, en Égypte,287,Sabinus,martyr
+03-13-10,Perse,,Christine,Vierge et martyre
+03-13-11,Cordoue,857,Rodrigue,Prêtre
+03-13-12,Cordoue,857,Salomon,martyr
+03-13-13,Constantinople,828,Nicéphore,évêque
+03-13-14,Camerino,840,Ansovin,Confesseur
+03-13-15,Dans le désert de Thébaïde,412,Euphrasie,Vierge
+03-14-00,Rome,,Léon,évêque
+03-14-01,Rome,Néron,saints martyrs,aucun
+03-14-02,Afrique,Vandales,Pierre et Aphrodisius,martyrs
+03-14-03,Harran, Mésopotamie,741,Eutychius le Patricien,martyr
+03-14-04,province de Valeria,,moines,moine
+03-14-05,Maruvium,,diacre,diacre
+03-14-06,Halberstadt, Allemagne,968,Mathilde,reine
+03-15-00,Césarée, en Cappadoce,,Longin,saint martyr
+03-15-01,,,Aristobule,saint
+03-15-02,Thessalonique,vers l'an 800,Matrone,sainte
+03-15-03,,sous l'empereur Dèce,Ménigne,saint martyr
+03-15-04,Égypte,sous l'empereur Dioclétien,Nicandre,saint martyr
+03-15-05,Cordoue,en l'an 880,Léocrite,sainte vierge et martyre
+03-15-06,Rome,en l'an 752,Zacharie,saint pape
+03-15-07,Rieti,en l'an 570,Probus,évêque
+03-15-08,Terracina,VIe siècle,Spécieux,saint moine bénédictin
+03-16-00,Rome,,Cyriaque,diacre
+03-16-01,Aquilée,,Hilaire,évêque
+03-16-02,Aquilée,,Tatien,diacre
+03-16-03,Lycaonie,IVe siècle,Papas,martyr
+03-16-04,Anazarbe, en Cilicie,,Julien,martyr
+03-16-05,Ravenne,341,Agapet,évêque
+03-16-06,Cologne,1021,Heribert,évêque
+03-16-07,Auvergne,,Patrick,évêque
+03-16-08,Syrie,370,Abraham,ermite
+03-17-00,Irlande,en l'an 464,Patrick,évêque
+03-17-01,Jérusalem,,Joseph d'Arimathie,conseiller
+03-17-02,Rome,,Alexandre,martyr
+03-17-03,Rome,,Théodore,martyr
+03-17-04,Alexandrie,au temps de l'empereur Théodose,nombreux saints martyrs,martyrs
+03-17-05,Constantinople,sous l'empereur Constantin Copronyme,Paul,martyr
+03-17-06,Chalon-sur-Saône,en l'an 580,Agricole,évêque
+03-17-07,Nivelles,en l'an 659,Gertrude,vierge
+03-18-00,Jérusalem,386,Cyrille,évêque
+03-18-01,Césarée,Dèce,Alexandre,évêque
+03-18-02,Augsbourg,Dioclétien,Narcisse,évêque
+03-18-03,Gérone,Dioclétien,Narcisse,aucun
+03-18-04,Augsbourg,Dioclétien,Félix,diacre
+03-18-05,Nicomédie,,dix mille saints martyrs,martyr
+03-18-06,,quatrième siècle,Trophime,martyr
+03-18-07,,quatrième siècle,Eucarpe,martyr
+03-18-08,Angleterre,962-978,Édouard II,roi
+03-18-09,Lucques,sixième siècle,Finnan,évêque
+03-18-10,Mantoue,1086,Anselme,évêque
+03-19-00,Judée,,Saint Joseph,époux de la très Sainte Vierge Marie
+03-19-01,Sorrente,,Quintus,aucun
+03-19-02,Sorrente,,Quintilla,aucun
+03-19-03,Sorrente,,Quartilla,aucun
+03-19-04,Sorrente,,Marc,aucun
+03-19-05,Nicomédie,sous l'empereur Dioclétien,Pancharius,aucun
+03-19-06,,,Apollonius,Évêque
+03-19-07,,,Léonce,Évêque
+03-19-08,Gand,en l'an 666,Landoald,Prêtre
+03-19-09,Gand,en l'an 666,Amantius,Diacre
+03-19-10,Pinna,au sixième siècle,Jean,aucun
+03-20-00,Angleterre,687,Cuthbert,évêque
+03-20-01,Judée,,Joachim,aucun
+03-20-02,Asie,,Archippe,évêque
+03-20-03,Syrie,,Paul,martyr
+03-20-04,Syrie,,Cyrille,martyr
+03-20-05,Syrie,,Eugène,martyr
+03-20-06,Syrie,,Photine,martyr
+03-20-07,Syrie,,Joseph,martyr
+03-20-08,Syrie,,Victor,martyr
+03-20-09,Syrie,,Sébastien,martyr
+03-20-10,Syrie,,Anatole,martyr
+03-20-11,Syrie,,Photius,martyr
+03-20-12,Syrie,,Photis,martyr
+03-20-13,Syrie,,Parascève,martyr
+03-20-14,Syrie,,Cyriaque,martyr
+03-20-15,Amisos,300,Alexandra,femme
+03-20-16,Amisos,300,Claudia,femme
+03-20-17,Amisos,300,Euphrasie,femme
+03-20-18,Amisos,300,Matrone,femme
+03-20-19,Amisos,300,Julienne,femme
+03-20-20,Amisos,300,Euphémie,femme
+03-20-21,Amisos,300,Théodosie,femme
+03-20-22,Amisos,300,Derphuta,femme
+03-20-23,Amisos,300,sa sœur,femme
+03-20-24,Apollonia,VIIIe siècle,Nicétas,évêque
+03-20-25,Fontenelle,720,Wolfran,évêque
+03-20-26,Sienne,1286,Ambroise,aucun
+03-21-00,Monte Cassino,543,Benoît,abbé
+03-21-01,Alexandrie,sous l'empereur Constantin,martyrs,martyrs
+03-21-02,,fin du quatrième siècle,Philemon et Domnin,martyrs
+03-21-03,Catane,,Birille,évêque
+03-21-04,Alexandrie,,Sérapion,évêque
+03-21-05,région de Lyon,480,Lupicin,abbé
+03-22-00,Jérusalem,,Cyril,évêque
+03-22-01,Narbonne,,Paul,évêque
+03-22-02,Terracina,,Épaphrodite,évêque

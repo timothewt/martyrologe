@@ -78,7 +78,7 @@ def extract_martyrs_data(text: str) -> list[dict]:
 
 def main():
     files = sorted(glob("./data/raw/*.txt"))
-    os.makedirs("./data/clean", exist_ok=True)
+    os.makedirs("./data/json", exist_ok=True)
 
     for filename in (t := tqdm(files)):
         t.set_postfix_str(filename)
@@ -88,7 +88,7 @@ def main():
         martyrs_data = extract_martyrs_data(text)
         day = os.path.basename(filename)[:-4]
 
-        with open(f"./data/clean/{day}.json", "w", encoding="utf-8") as f:
+        with open(f"./data/json/{day}.json", "w", encoding="utf-8") as f:
             json.dump(martyrs_data, f, ensure_ascii=False, indent=2)
 
         time.sleep(6)
